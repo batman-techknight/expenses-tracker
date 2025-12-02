@@ -1,0 +1,49 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# ---- Virtual Environment ----
+env/
+venv/
+.venv/
+ENV/
+
+# ---- SQLite Database ----
+*.db
+*.db-shm
+*.db-wal
+
+# ---- Logs ----
+*.log
+logs/
+debug.log
+
+# ---- Data Files ----
+*.csv
+*.xlsx
+
+# ---- ML Models ----
+*.h5
+*.pkl
+*.joblib
+models/
+
+# ---- IDE / Editor Stuff ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Build ----
+dist/
+build/
