@@ -1,0 +1,8 @@
+AI-Expense-Tracker/
+│── expenses.db
+│── setup_db.py
+│── db_connection.py
+│── insert_test.py
+│── README.md
+│── tests/
+│     └── test_expense.py
