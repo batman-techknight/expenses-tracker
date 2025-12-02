@@ -1,4 +1,4 @@
-AI-Expense-Tracker/
+ Expense-Tracker/
 │── expenses.db
 │── setup_db.py
 │── db_connection.py
