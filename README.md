@@ -26,4 +26,4 @@ This project helps you record, organize, and analyze daily expenses through a cl
 |----------|------------|
 | Programming Language | Python |
 | Database | SQLite |
-| Data Analysis | p
+| Data Analysis | pandas
